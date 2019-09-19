@@ -16,8 +16,8 @@ Just learning how to use boost.asio with for a simple TCP echo server.
 * ./server port
 
 ### **TODO**
-- [] multithread
-- [] async read
+- [ ] multithread
+- [ ] async read
 
 ---
 
